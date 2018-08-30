@@ -1,5 +1,6 @@
 # OdooDebug
 Plugin for Quick Debug in Odoo
+This module is not suited for humans, only droids
 
 ### Installation
 - Chrome: install it from <a href="https://chrome.google.com/webstore/detail/odoo-debug/hmdmhilocobgohohpdpolmibjklfgkbi">chrome web store</a>
